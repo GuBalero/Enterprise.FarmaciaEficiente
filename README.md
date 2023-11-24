@@ -1,7 +1,10 @@
 # Enterprise.FarmaciaEficiente
 Entrega da Global Solution - Enterprise Application Development
 
-
+## Grupo
+93090 - Gustavo Balero Cosse de Sousa
+93897 - Marcelo Florencio Casanova Gimenes
+93567 - Pedro Henrique Vidal da Silva
 
 Entrega: 
 
