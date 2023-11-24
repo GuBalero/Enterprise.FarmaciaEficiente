@@ -6,7 +6,6 @@ Entrega da Global Solution - Enterprise Application Development
 - 93897 - Marcelo Florencio Casanova Gimenes
 - 93567 - Pedro Henrique Vidal da Silva
 
-Entrega: 
 
 ## Objetivos: Criar uma aplicação ASP.NET Core que resolva um problema do tema proposto na Global Solution.
 
